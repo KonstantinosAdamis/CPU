@@ -8,7 +8,7 @@ Explanation:
 1. Data Section:
 
  - Defines a limit (100) as the upper bound for the sum.
-   
+
  - Includes a placeholder for the computed result.
    
 Sum Computation:
@@ -18,7 +18,7 @@ Sum Computation:
 Helper Functions:
 
  - print_string: Prints a string to the terminal.
-   
+
  - int_to_str: Converts the result (integer) into a string for display.
    
 Output:
