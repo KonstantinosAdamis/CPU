@@ -7,9 +7,9 @@ Explanation:
 
 1. Data Section:
 
- - Defines a limit (100) as the upper bound for the sum.
+  - Defines a limit (100) as the upper bound for the sum.
 
- - Includes a placeholder for the computed result.
+  - Includes a placeholder for the computed result.
    
 Sum Computation:
 
