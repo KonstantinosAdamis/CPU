@@ -27,20 +27,20 @@ Output:
 
 How to Run:
 
- -Download the file cpu.asm
+ - Download the file cpu.asm
 
 Assemble and link:
 
- -nasm -f elf64 cpu.asm -o cpu.o
+ - nasm -f elf64 cpu.asm -o cpu.o
   
- -ld cpu.o -o cpu
+ - ld cpu.o -o cpu
 
 Run:
 
- -./cpu
+ - ./cpu
 
 If the limit is 100, the output should be:
 
- -Sum:5050
+ - Sum:5050
 
 This program demonstrates a simple CPU task. You can modify the limit value to test different workloads.
