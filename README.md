@@ -41,6 +41,6 @@ Run:
 
 If the limit is 100, the output should be:
 
- - Sum:5050
+ - Sum: 5050
 
 This program demonstrates a simple CPU task. You can modify the limit value to test different workloads.
