@@ -8,19 +8,19 @@ Explanation:
 1. Data Section:
 
  - Defines a limit (100) as the upper bound for the sum.
- - 
+   
  - Includes a placeholder for the computed result.
- - 
+   
 Sum Computation:
 
  - A loop iterates from 0 to the limit, adding the counter to the accumulator (eax).
- - 
+   
 Helper Functions:
 
  - print_string: Prints a string to the terminal.
- - 
+   
  - int_to_str: Converts the result (integer) into a string for display.
- - 
+   
 Output:
 
  - Displays the computed sum.
